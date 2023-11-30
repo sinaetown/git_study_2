@@ -4,4 +4,7 @@ bye bye
 one
 two
 three
+Merry Christmas!
+Happy Thanksgiving!
+Happy holidays!
 for practice2
