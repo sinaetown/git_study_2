@@ -6,4 +6,3 @@ two
 three
 Merry Christmas!
 Happy Thanksgiving!
-Practice 2 executed
